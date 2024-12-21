@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/test123/static/css/main.0925083c.css",
-    "main.js": "/test123/static/js/main.8f969024.js",
-    "static/media/logo.png": "/test123/static/media/logo.b2724e805d910e586b8f.png",
-    "index.html": "/test123/index.html",
-    "main.0925083c.css.map": "/test123/static/css/main.0925083c.css.map",
-    "main.8f969024.js.map": "/test123/static/js/main.8f969024.js.map"
+    "main.css": "/GameModify.github.io/static/css/main.52ac6af1.css",
+    "main.js": "/GameModify.github.io/static/js/main.c397369d.js",
+    "static/media/logo.png": "/GameModify.github.io/static/media/logo.b2724e805d910e586b8f.png",
+    "index.html": "/GameModify.github.io/index.html",
+    "main.52ac6af1.css.map": "/GameModify.github.io/static/css/main.52ac6af1.css.map",
+    "main.c397369d.js.map": "/GameModify.github.io/static/js/main.c397369d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0925083c.css",
-    "static/js/main.8f969024.js"
+    "static/css/main.52ac6af1.css",
+    "static/js/main.c397369d.js"
   ]
 }
